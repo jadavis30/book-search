@@ -1,10 +1,11 @@
 import React from 'react';
 import { Jumbotron, Container, CardColumns, Card, Button } from 'react-bootstrap';
 
-import { removeBookId } from '../utils/localStorage';
+
 import { useQuery, useMutation } from '@apollo/react-hooks';
 import { QUERY_GET_ME } from '../utils/queries';
 import { REMOVE_BOOK } from '../utils/mutations';
+import { removeBookId } from '../utils/localStorage';
 
 
 const SavedBooks = () => {

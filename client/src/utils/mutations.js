@@ -29,6 +29,7 @@ export const SAVE_BOOK = gql`
     saveBook(book: $book) {
       _id
       username
+      email
       bookCount
       savedBooks {
         bookId
