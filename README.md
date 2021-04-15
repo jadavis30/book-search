@@ -1,7 +1,7 @@
 # Google Book Search using MERN
 
 ## Description
-This book search engine allows a user to search for a book using keywords. A list of books then displays with an image, author, and description. Users can then save books (once logged in) to review later, or delete them from their local storage. This project had the initial code provided and then was modified to use GraphQL.
+This book search engine allows a user to search for a book using keywords. A list of books then displays with an image, author, and description. Users can then save books (once logged in) to review later, or delete them from their local storage. This project had the initial code provided and then was modified to use GraphQL and connected with MongoDB Atlas.
 [Google Book Search](https://desolate-island-52588.herokuapp.com/) 
 
 ## Table of Contents
